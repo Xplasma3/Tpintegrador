@@ -1,0 +1,10 @@
+.imgFondo {
+    background-image: url("../TP\ Oficial/assets/img/ba1.jpg") ;
+    height: 100vh;
+    background-color: gray;
+    background-blend-mode: soft-light;
+}
+
+.footi{
+    background-color: #1D4358;
+}
